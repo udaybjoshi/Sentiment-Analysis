@@ -20,7 +20,7 @@ Click on the 'new' dropdown menu and select 'terminal'. By default, the working 
 
 # Data
 
-Data is taken from the IMDB website [IMDB](https://ai.stanford.edu/~amaas/data/sentiment)
+Data is taken from the [IMDB](https://ai.stanford.edu/~amaas/data/sentiment) website
 
 # Libraries
 
