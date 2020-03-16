@@ -18,6 +18,21 @@ Once the instance has been started and is accessible, click on 'open' to get the
 
 Click on the 'new' dropdown menu and select 'terminal'. By default, the working directory of the terminal instance is the home directory, however, the Jupyter notebook hub's root directory is under 'SageMaker'. 
 
+# Data
+
+Data is taken from the IMDB website [IMDB](https://ai.stanford.edu/~amaas/data/sentiment)
+
+# Libraries
+
+This project requires Python 3.6 and the following Python libraries installed:
+
+* [NumPy](https://numpy.org)
+* [Pandas](https://pandas.pydata.org)
+* [matplotlib](https://matplotlib.org)
+* [scikit-learn](https://scikit-learn.org)
+* [nltk](https://nltk.org)
+* [Tensorflow](https://tensorflow.org)
+
 # General Outline
 
 * Step 1: Downloading the data
@@ -27,8 +42,9 @@ Click on the 'new' dropdown menu and select 'terminal'. By default, the working 
 * Step 5: Testing the Model
 * Step 6: Deploying the model for testing
 * Step 7: Use the model for testing
-* Step 6 Deploy the model for the web app
-* Step 7 Use the model for the web app
+* Step 6: Deploy the model for the web app
+* Step 7: Use the model for the web app
+
 
 
 
